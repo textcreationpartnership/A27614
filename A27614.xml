@@ -1,0 +1,285 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from W.B. in the city, to his friend at Warwick</title>
+            <author>W. B.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27614</idno>
+            <idno type="STC">Wing B216</idno>
+            <idno type="STC">ESTC R35736</idno>
+            <idno type="EEBO-CITATION">15554057</idno>
+            <idno type="OCLC">ocm 15554057</idno>
+            <idno type="VID">103699</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27614)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103699)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1582:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from W.B. in the city, to his friend at Warwick</title>
+                  <author>W. B.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed at the importunity of some loyal gentlemen for I.H. ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed and dated at end: September 1, W.B.</note>
+                  <note>Imperfect: tightly bound with some loss of print.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:103699:1" rendition="simple:additions"/>
+            <head>A <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ETTER FROM W. B. in the CITY, To his Friend at <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ARWICK.</head>
+            <opener>
+               <salute>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Friend.</salute>
+            </opener>
+            <p>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>UT of ſight out of mind, does without doubt oft prove true, but you may believe <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is not ſo with me, notwithſtanding my ſo long ſilence and your frequent Provoca<g ref="char:EOLhyphen"/>tions. In Troth the various ſhapes our publik Affairs have put on, the general Con<g ref="char:EOLhyphen"/>firmation, that had in a manner ſeiſed all truly Loyal hearts, and impudent actings <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Gentlemen of <hi>Forty One,</hi> had ſo non-pluſs'd, and ſtagger'd my apprehenſions and that I reſolved my ſelf into my old Mum, till Providence ſhould afford me a more cer<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> comfortable Subject to accommodate my Friends; And now my hand is in <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> acquit your ſelf as well as you can. Your Letters have bin read by many an <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> who ſay indeed, that you Write wittily and ingeniouſly, and that you are an <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Loyal Subject, and a true Church-man, but I hear of no great noble or <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> you or your Town have done for either God or the King, as <hi>Briſtol</hi> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Places. Now is the time or never. We have Writers enough, who have ſuffici<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> done and foyled our Adverſaries, in ſo much that divers of the Godly, or rather Un<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> have long ſince curs'd the Pampleteers and other Writers, and were willing to croſs the <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> that incomparable and unwearied Aſſerter of true Loyalty, the <hi>Obſervator</hi> eſpecially, and <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> would leave gauling them and laying open their old and new intended Villanies; the <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hich has gratified them in laying down firſt, as you may find in his Paper of the 24 of <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> his Reaſons and Reſolutions upon it, to which I referr you. But what will Writing or <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> or even Preaching do, if the Magiſtrate bear the Sword in vain? nay, what can the <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>e do, if all true and loyal Subjects, I mean the eſtabliſh'd Church of <hi>England</hi> Proteſtants, <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> earneſt, and actively forward to aſſiſt him in the execution of the Laws againſt all ſe<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> Conventicles and unlawful Aſſemblies whatſoever. 'Tis plain, that Indulgence has en<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> and made them impudent, and nothing but ſeverity will calm and make them ſubject. <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> I may now ſay, that the Boot is on the right Leg, and will (if we are not wanting to our <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and our ſelves) there continue, tho the Devils labour hard to pluck it off again. <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> vvhich they have taken divers Methods and Meaſures, as by lies and lying Wonders, <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Enemies whereby they ever carried on and ſupported their Infernal Cauſe, by a new <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> for taking and interpretation of all Legal Oaths, ſquared to theſe Saints Conſciences, <hi>Po<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> fitted for our Republican Hogs-heads, the pretty Intrigue with our Rennegado, who
+<pb facs="tcp:103699:2"/>came with the <hi>Morocco</hi> Embaſſador; <hi>Salamanca</hi> pick-Locks for the black Box, being th<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> invention of a Maſquerading Jeſuit ſpawned of Anabaptiſt Parents; Evidences kept in <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> help at a dead lift, <hi>Ignoramus</hi> Juries, who make all Laws truckle to their omnipotent Co<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ces, <hi>Midſummer</hi>-Moon Frolicks in chuſing of Sheriffs; and laſtly, by frighting the chief Ma<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> and other Officers from doing their Duties, with Actions and Suits of Law, and broaching <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>nies againſt them. I might add many more, but theſe may ſuffice at preſent, only let me leave to remind you of my prophetick Spirit in my Letter to you upon the firſt diſcovery <gap reason="illegible" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> Popiſh Plot, when I told you, that I fear'd another would ariſe out of the Aſhes of that <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> which is now as plainly viſible as the Noſe in an honeſt mans Face. The good old <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> men may call it a Sham plot, and ſwear in an <hi>Ignoramus</hi> Way, That there is no Presby<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> or Republican one; So, they may drink Healths to the pious Memory of <hi>Steven Colle<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> condemned Traitor, and ſay they are the Kings beſt and moſt loyal Subjects; Nay, they endeavour for a Bill of Excluſion as ſoon as they have taken the Oaths of Allegiance and Sup<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>cy, and think they are not perjured, They may do evil, that good come thereby, and ſay, <hi>S<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>berty have all their Saints;</hi> They may cry out of Arbitrary Government, and ſet up an <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ring Committee; They, when it ſerves their turn, may maintain, that the Servant is ab<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Maſter, that the Sheriffs are above the Lord Mayor, and that the Mobile or Rabble are all. That <hi>Vox Populi</hi> (by which muſt be underſtood our Republican Saints, as heretofore (<gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Army) is <hi>Vox Dei,</hi> And that the Kings of <hi>England</hi> are elective, and but Servants to the <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> which was the common Doctrine before the taking off the Head of that bleſſed Martyr <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the firſt. But no more of this Subject, till I ſee what returns you make and iſſue of <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> depending upon the <hi>Quo Warranto,</hi> or our new Sheriffs give bond and ſworn. Howeve<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> I conclude, it may not be amiſs to acquaint you that the old Fox and <hi>P—S</hi> are pa<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> that ſome of the Patriots of the Whiggs and Troublers of <hi>Iſrael</hi> are gon beyond Sea, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> aſide, as <hi>Bethel, Starkey, Wilmore, Aaron Smith, and Langly Curtiſe. William Pen</hi> with ſom<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Gang are gon to <hi>Penſilvania,</hi> and many others to <hi>Carolina,</hi> as Harbingers to their mighty A good riddance ſay I, and the more the merrier, that we may have the better Chear, puts me in mind to tell you, that merry <hi>Tom</hi> the Teaſer is dead before he could take <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> with his Comrogues. In a Word I am</p>
+            <closer>
+               <salute>Sir,</salute> 
+               <signed>Yours <hi>W.<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </signed>
+               <dateline>
+                  <date>September 1.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at the Importunity of ſome Loyal Gentlemen for <hi>I. <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> in <hi>Little-Brittain.</hi> 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
